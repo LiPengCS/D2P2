@@ -1,0 +1,1 @@
+{"label": "origin", "clean_type": "missing value", "drop_variables": "name", "missing number": "14", "categorical_variables": ["year"],"missing rate": "0.49%", "best_acc": "0.857", "instance":"406"}

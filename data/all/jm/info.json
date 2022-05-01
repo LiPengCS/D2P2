@@ -1,0 +1,8 @@
+{
+    "label": "defects", 
+     "missing_value": "?",
+     "clean_type": "missing value", 
+     "missing number": "25", 
+     "missing rate": "0.01%", 
+     "best_acc": "0.824"
+}

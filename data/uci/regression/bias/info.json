@@ -1,0 +1,5 @@
+{
+    "label": "Next_Tmax",
+    "originalname": "Bias correction of numerical prediction model temperature forecast Data Set (regression)",
+    "drop_variables": {"Date", "Next_Tmin"}
+}

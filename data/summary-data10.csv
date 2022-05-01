@@ -1,0 +1,7 @@
+dataset,# examples,# features,% mv
+obesity,2111,17,0
+abalone,4177,9,0
+ada_prior,4562,15,0.001285986
+phoneme,5404,6,0
+eeg,14980,15,0
+avila,20867,11,0

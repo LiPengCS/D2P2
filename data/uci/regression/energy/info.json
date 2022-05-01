@@ -1,0 +1,5 @@
+{
+    "label": "rv1",
+    "originalname": "Appliances energy prediction Data Set (regression)",
+    "drop_variables": {"date", "rv2"}
+}

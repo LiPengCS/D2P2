@@ -1,0 +1,13 @@
+dataset,# examples,# features,% mv
+seismic,2584,19,0.0
+BLE_RSSI_dataset,1420,15,0.0
+abalone,4177,9,0.0
+chorals,5665,17,0.0
+anuran,7195,26,0.0
+c2k,3943,98,0.5441935333605925
+obesity,2111,17,0.0
+electrical_grid,10000,14,0.0
+avila,20867,11,0.0
+onlineshopper,12330,18,0.0
+chess,3196,37,0.0
+eeg,14980,15,0.0

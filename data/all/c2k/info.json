@@ -1,0 +1,6 @@
+{
+    "label": "legs",
+    "missing_value": "?",
+    "originalname": "Cargo 2000 Freight Tracking and Tracing Data Set",
+    "drop_variables": ["i1_dep_2_p"]
+}

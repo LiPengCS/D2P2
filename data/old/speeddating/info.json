@@ -1,0 +1,9 @@
+{
+	"label": "match", 
+	"missing_value":"?",
+	"clean_type": "missing value", 
+	"missing number": "18372", 
+	"missing rate": "1.8%", 
+	"best_acc": "0.871", 
+	"auc": "0.846"
+}

@@ -1,0 +1,11 @@
+dataset,# examples,# features,% mv
+car,1728,7,0.0
+abalone,4177,9,0.0
+quality,4898,12,0.0
+iris,150,5,0.0
+heart,303,14,0.0
+bank,45211,17,0.0
+wine,178,14,0.0
+har,7352,563,0.0
+adult,32561,15,0.0
+breast_cancer,569,32,0.0

@@ -1,0 +1,10 @@
+{
+    "label": "movedin", 
+     "missing_value":"?",
+     "clean_type": "missing value", 
+     "missing number": "51515", 
+     "missing rate": "9.7%", 
+     "best_acc": "0.824", 
+     "auc": "0.981",
+     "note": "some columns have many 99999, missing values?"
+}

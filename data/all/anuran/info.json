@@ -1,0 +1,5 @@
+{
+    "label": "Species",
+    "drop_variables": ["Family","Genus","RecordID"],
+    "originalname": "Anuran Calls (MFCCs) Data Set"
+}
